@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://amblanco99.github.io/test-global-humanities/sitemap.xml
+Sitemap: https://globalhumanities.github.io/certificate/sitemap.xml

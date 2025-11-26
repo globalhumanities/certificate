@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Global humanities</title>
-    <link href="https://amblanco99.github.io/test-global-humanities/feed.xml" rel="self" />
-    <link href="https://amblanco99.github.io/test-global-humanities" />
+    <link href="https://globalhumanities.github.io/certificate/feed.xml" rel="self" />
+    <link href="https://globalhumanities.github.io/certificate" />
     <updated>2025-10-22T15:31:00-05:00</updated>
     <author>
         <name>Admin</name>
     </author>
-    <id>https://amblanco99.github.io/test-global-humanities</id>
+    <id>https://globalhumanities.github.io/certificate</id>
 
     <entry>
         <title>Certificate</title>
         <author>
             <name>Admin</name>
         </author>
-        <link href="https://amblanco99.github.io/test-global-humanities/certificate-2/"/>
-        <id>https://amblanco99.github.io/test-global-humanities/certificate-2/</id>
+        <link href="https://globalhumanities.github.io/certificate/certificate-2/index.html"/>
+        <id>https://globalhumanities.github.io/certificate/certificate-2/index.html</id>
 
         <updated>2025-10-14T23:29:51-05:00</updated>
             <summary>
@@ -28,8 +28,8 @@
                 <h4 class="align-center"><span style="font-weight: 400;">The Global Humanities Certificate invites students to step beyond borders—intellectual, cultural, and creative—to explore what it means to be human in a rapidly changing world. Through interdisciplinary study of literature, art, philosophy, and history, the program encourages critical thinking and creativity by engaging students with global perspectives in three main areas: how cultures shape ideas, how imagination and the arts connect people, and how stories and histories reveal and reshape our collective identities.</span></h4>
 <h4><span style="font-weight: 400;">Mission statement</span></h4>
 <p><span style="font-weight: 400;">Global Humanities certificate offers students the opportunity to step outside their own traditions and see the world from distinct global perspectives. Exploring ideas and artifacts – literary, visual, material, artistic, etc. – in varied global contexts, the certificate will open the humanities to</span><span style="font-weight: 400;"> all students across the network, including those in other fields. Incorporating the array of disciplines and approaches that comprise the humanities, its courses explore the human experience through diffe</span><span style="font-weight: 400;">rent global lenses and help students engage with and navigate an increasingly complex global context. Familiarity with the humanities gives students a richer and more nuanced basis for their future work and contribution as citizens, offering an ethical, aesthetic, and historical foundation for understanding contemporary global problems and ways of living.</span></p>
-<p><a href="https://amblanco99.github.io/test-global-humanities/values-and-program-goals-2/" class="button fit">Values and program goals</a></p>
-<p><a href="https://amblanco99.github.io/test-global-humanities/requirements/" class="button fit">Requirements</a></p>
+<p><a href="https://globalhumanities.github.io/certificate/values-and-program-goals-2/index.html" class="button fit">Values and program goals</a></p>
+<p><a href="https://globalhumanities.github.io/certificate/requirements/index.html" class="button fit">Requirements</a></p>
             ]]>
         </content>
     </entry>
