@@ -10,32 +10,18 @@
     },
     "items": [
         {
-            "id": "https://globalhumanities.github.io/certificate/new-course/",
-            "url": "https://globalhumanities.github.io/certificate/new-course/",
-            "title": "NEW COURSE",
-            "summary": "Simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las&hellip;",
-            "content_html": "<p class=\"align-center\"><em><strong>Simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.</strong></em></p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://globalhumanities.github.io/certificate/media/posts/43/steering-committee.jpg\" alt=\"\" width=\"247\" height=\"247\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://globalhumanities.github.io/certificate/media/posts/43/responsive/steering-committee-xs.jpg 300w ,https://globalhumanities.github.io/certificate/media/posts/43/responsive/steering-committee-sm.jpg 480w ,https://globalhumanities.github.io/certificate/media/posts/43/responsive/steering-committee-md.jpg 768w ,https://globalhumanities.github.io/certificate/media/posts/43/responsive/steering-committee-lg.jpg 1024w ,https://globalhumanities.github.io/certificate/media/posts/43/responsive/steering-committee-xl.jpg 1360w ,https://globalhumanities.github.io/certificate/media/posts/43/responsive/steering-committee-2xl.jpg 1600w\"></figure>",
-            "author": {
-                "name": "Admin"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-23T14:02:41-05:00",
-            "date_modified": "2025-11-23T14:02:41-05:00"
-        },
-        {
-            "id": "https://globalhumanities.github.io/certificate/certificate-2/",
-            "url": "https://globalhumanities.github.io/certificate/certificate-2/",
+            "id": "https://globalhumanities.github.io/certificate/certificate-2/index.html",
+            "url": "https://globalhumanities.github.io/certificate/certificate-2/index.html",
             "title": "Certificate",
             "summary": "The Global Humanities Certificate invites students to step beyond borders—intellectual, cultural, and creative—to explore what it means to be human in a rapidly&hellip;",
-            "content_html": "<h4 class=\"align-center\"><span style=\"font-weight: 400;\">The Global Humanities Certificate invites students to step beyond borders—intellectual, cultural, and creative—to explore what it means to be human in a rapidly changing world. Through interdisciplinary study of literature, art, philosophy, and history, the program encourages critical thinking and creativity by engaging students with global perspectives in three main areas: how cultures shape ideas, how imagination and the arts connect people, and how stories and histories reveal and reshape our collective identities.</span></h4>\n<h4><span style=\"font-weight: 400;\">Mission statement</span></h4>\n<p><span style=\"font-weight: 400;\">Global Humanities certificate offers students the opportunity to step outside their own traditions and see the world from distinct global perspectives. Exploring ideas and artifacts – literary, visual, material, artistic, etc. – in varied global contexts, the certificate will open the humanities to</span><span style=\"font-weight: 400;\"> all students across the network, including those in other fields. Incorporating the array of disciplines and approaches that comprise the humanities, its courses explore the human experience through diffe</span><span style=\"font-weight: 400;\">rent global lenses and help students engage with and navigate an increasingly complex global context. Familiarity with the humanities gives students a richer and more nuanced basis for their future work and contribution as citizens, offering an ethical, aesthetic, and historical foundation for understanding contemporary global problems and ways of living.</span></p>\n<p> </p>\n<p><a href=\"https://globalhumanities.github.io/certificate/values-and-program-goals-2/\" class=\"button fit\">Values and program goals</a></p>\n<p><a href=\"https://globalhumanities.github.io/certificate/requirements/\" class=\"button fit\">Requirements</a></p>",
+            "content_html": "<h4 class=\"align-center\"><span style=\"font-weight: 400;\">The Global Humanities Certificate invites students to step beyond borders—intellectual, cultural, and creative—to explore what it means to be human in a rapidly changing world. Through interdisciplinary study of literature, art, philosophy, and history, the program encourages critical thinking and creativity by engaging students with global perspectives in three main areas: how cultures shape ideas, how imagination and the arts connect people, and how stories and histories reveal and reshape our collective identities.</span></h4>\n<h4><span style=\"font-weight: 400;\">Mission statement</span></h4>\n<p><span style=\"font-weight: 400;\">Global Humanities certificate offers students the opportunity to step outside their own traditions and see the world from distinct global perspectives. Exploring ideas and artifacts – literary, visual, material, artistic, etc. – in varied global contexts, the certificate will open the humanities to</span><span style=\"font-weight: 400;\"> all students across the network, including those in other fields. Incorporating the array of disciplines and approaches that comprise the humanities, its courses explore the human experience through diffe</span><span style=\"font-weight: 400;\">rent global lenses and help students engage with and navigate an increasingly complex global context. Familiarity with the humanities gives students a richer and more nuanced basis for their future work and contribution as citizens, offering an ethical, aesthetic, and historical foundation for understanding contemporary global problems and ways of living.</span></p>\n<p><a href=\"https://globalhumanities.github.io/certificate/values-and-program-goals-2/index.html\" class=\"button fit\">Values and program goals</a></p>\n<p><a href=\"https://globalhumanities.github.io/certificate/requirements/index.html\" class=\"button fit\">Requirements</a></p>",
             "author": {
                 "name": "Admin"
             },
             "tags": [
             ],
             "date_published": "2025-10-14T23:29:51-05:00",
-            "date_modified": "2025-11-23T12:05:28-05:00"
+            "date_modified": "2025-10-22T15:31:00-05:00"
         }
     ]
 }
